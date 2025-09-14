@@ -6,7 +6,7 @@ owner_name = "Jalainie R. Abdullah Jr."   # string
 year_established = 2025   # integer
 has_delivery = True       # boolean
 
-# Menu with Prices (dictionary)
+# Menu with Prices
 menu_prices = {
     "Pizza": 200,
     "Burger": 120,
@@ -16,7 +16,7 @@ menu_prices = {
     "Fried Chicken": 180
 }
 
-# Business hours (tuple of strings for simplicity)
+# Business hours (tuple of strings)
 business_hours = ("10:00", "22:00")  # open - close
 
 # Display Restaurant Info
